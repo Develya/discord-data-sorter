@@ -1,6 +1,6 @@
 # Discord Data Sorter (Windows Only)
 
-A PowerShell script to find the private messages folders in the Discord data package. It is useful to re-open old Discord DMs using the user IDs contained in those files. This is not a tutorial to re-open DMs, only a script to help make the step of sorting the files a lot faster.
+A PowerShell script to find the private messages folders in the Discord data "package" folder. It is useful to re-open old Discord DMs using the user IDs contained in those files. This is not a tutorial to re-open DMs, only a script to help make the step of sorting the files a lot faster.
 
 ## Usage
 
